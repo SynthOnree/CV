@@ -1,13 +1,21 @@
-## Your Name
+## Henry Stone
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Junior software engineer looking to be part of a team that values communication, growth & feedback.
+5 years experience in administration, skilled in prioritising and managing workloads, a spreadsheet enthusiast.
+Graduating the Makers Academy bootcamp May 2024, where I honed my object-oriented programming & test-driven development, and learned DevOps/Cloud tools and the Agile methodology. 
+
+// then a sentence about what excites you about tech.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                        | Tech/tools         |
+| ---------------------------- | -----------------                                  | -----------------  |
+| **Final project**            | Test-driven deployment of HTTP routes & backend    |                    |
+                                 systems for interaction with databases. Developed  |                    | 
+                                 in Agile team of 5 through multiple sprints, using |                    | 
+                                 OOP & Continuous Integration.                      | Python, Flask, CSS,|  
+                                                                                    | PostgreSQL, HTML   |
+| **Something else worked on** | A webapp to do y.                                  | Ruby               |
 
 ## Work Experience
 
